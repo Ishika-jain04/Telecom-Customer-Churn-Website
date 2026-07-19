@@ -98,7 +98,9 @@ This project is intended for educational and portfolio purposes.
 ## 👩‍💻 Created By
 
 **Ishika Jain**
-**Intern id :- ishikajain173@gmail.com**
+
+## Intern id  
+**ishikajain173@gmail.com**
 
 Computer Science Student
 
